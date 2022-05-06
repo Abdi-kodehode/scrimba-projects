@@ -1,0 +1,43 @@
+body {
+    margin: 20px;
+    background-color: aliceblue;
+    text-align: center;
+  }
+
+.ballong {
+  height: 200px;
+  width: 150px;
+  background-color: rgb(20, 216, 230);
+  border-radius: 80%;
+  margin: 20px;
+  display: inline-block;
+  box-shadow: inset -10px -10px 0 rgb(0, 0, 0, .10);
+  animation: float 8s ease-out infinite;
+}
+
+@keyframes float {
+  50% {transform: rotate( 30deg);
+  transform: translate(25px, 30px);}
+}
+
+.ballong::before {
+  content: "▲";
+  color: rgb(20, 216, 230);
+  position: absolute;
+  text-align: center;
+  display: block;
+  bottom: -12px;
+  right: 68px;
+}
+
+.ballong::after {
+  content: "";
+  width: 1px;
+  height: 200px;
+  background-color: grey;
+  position: absolute;
+  margin-top: 208px;
+  margin-left: -2px;
+  
+}
+

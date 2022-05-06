@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>PGen</title>
+</head>
+
+<body>
+    <div class="left-side">
+        <div>
+            <div class="info">
+                <h1 class="h-top">Generate a</h1>
+                <h1 class="h-down">random password</h1>
+                <p class="sup-text">Never use an insecure password again!</p>
+                <button class="btn" onclick="running4Times()"><i class="fa fa-bolt"></i> Generate passwords</button>
+                <button class="btn" onclick="clearPassword()"><i class="fa fa-window-close" aria-hidden="true"></i> Clear</button>
+            </div>
+            <hr>
+
+            <div class="container">
+                <div class="row">
+                    <input type="text" placeholder="Password 1" id="pss-1" class="box-1" readonly>
+                    <input type="text" placeholder="Password 2" id="pss-2" class="box-2" readonly>
+                </div>
+
+                <div class="row">
+                    <input type="text" placeholder="Password 3" id="pss-3" class="box-3" readonly>
+                    <input type="text" placeholder="Password 4" id="pss-4" class="box-4" readonly>
+                </div>
+
+            </div>
+        </div>
+    </div>    
+    <script src="index.js"></script>
+</body>
+</html>

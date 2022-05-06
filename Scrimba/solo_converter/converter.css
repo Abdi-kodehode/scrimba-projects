@@ -1,0 +1,37 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1F2937;
+    
+}
+
+.hero-back {
+    background: linear-gradient(270deg,#585dfe 0%, #fb3796 80%);
+    text-align: center;
+    padding: 50px;
+}
+
+.hero-text {
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mini-header {
+    color: whitesmoke;
+}
+
+p {
+    color:lightslategrey;
+}

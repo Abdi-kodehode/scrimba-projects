@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lister</title>
+    <style>
+        body {
+            background-color: darkorange;
+            margin: 50px;;
+        }
+
+        .hero {
+            border-bottom: 5px solid black;
+        }
+       p {
+           font-weight: bold;
+       }
+       ol.col4 {
+           list-style-type: lower-alpha;
+       }
+       ol.col5 {
+           list-style-type: lower-roman;
+       }
+       ol.col6 {
+           list-style-type: lower-greek;
+       }
+    </style>
+</head>
+
+<body>
+    <section class="hero">
+        <header>
+            <h1>Homework about different types of list</h1>
+        </header>
+    </section>
+
+    <section class="container">
+        <div class="columns">
+            <div>
+                <ul class="col1"><p>Different <i>types </i>of drinks:</p>
+                    <li>Coffee</li>
+                    <li>Tea</li>
+                    <li>Milk</li>
+                </ul>
+            </div>
+            <div>
+                <ol class="col2"><p>Best fotball <i>clubs</i>:</p>
+                    <li>Manchester United</li>
+                    <li>Liverpool</li>
+                    <li>Chealse</li>
+                </ol>
+            </div>
+            <div>
+                <dl class="col3"><p>Web dev is comprimazed by three fundemental principle:</p>
+                    <dt>HTML</dt>
+                    <dd>- the most basic building block of the Web</dd>
+                    <dt>CSS</dt>
+                    <dd>- the language we use to style an HTML</dd>
+                    <dt>JavaScript</dt>
+                    <dd>- javaScript is the programming language of the Web</dd>
+                  </dl> 
+            </div>
+            <div>
+                <ol class="col4"><p>lower letters</p>
+                    <li>Test of list types</li>
+                    <li>Test of list types</li>
+                    <li>Test of list types</li>
+                </ol>
+            </div>
+            <div>
+                <ol class="col5"><p>roman letters</p>
+                    <li>Test of list types</li>
+                    <li>Test of list types</li>
+                    <li>Test of list types</li>
+                </ol>
+            </div>
+            <div>
+                <ol class="col6"><p>greek letters</p>
+                    <li>Test of list types</li>
+                    <li>Test of list types</li>
+                    <li>Test of list types</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

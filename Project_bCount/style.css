@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+body {
+    background: #ffffff;
+    color: white;
+    overflow: hidden;
+}
+
+section {
+    max-width: 50em;
+    margin: 2em auto;
+    padding: 75px;
+    background: #118186;
+    /* border: 1px solid #10B981; */
+    /* box-shadow: -13px 10px 5px -7px rgba(16,185,129,0.75); */
+    text-align: center;
+}
+
+header {
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.inputField {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.counter {
+    color: rgba(55, 59, 65, 0.8);
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+
+
+h1 {
+    font-weight: normal;
+}
+li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+}
+li span {
+    display: block;
+    font-size: 4.5rem;
+}
+
+
+
+#myBirth {
+    appearance: none;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background: transparent;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+/* ::-webkit-datetime-edit-text { padding: 0 2rem; }
+::-webkit-datetime-edit-month-field { text-transform: uppercase; }
+::-webkit-datetime-edit-day-field { text-transform: uppercase; }
+::-webkit-datetime-edit-year-field { text-transform: uppercase; }
+::-webkit-inner-spin-button { display: none; }
+::-webkit-calendar-picker-indicator { background: transparent;} */
+
+button {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    padding: 11px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px 2px;
+}

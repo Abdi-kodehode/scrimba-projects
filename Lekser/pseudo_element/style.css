@@ -1,0 +1,108 @@
+body {
+    margin: 0 ;
+}
+
+.img {
+    background: url(suksesskake.jpg) no-repeat center;
+    background-size: contain;
+    background-size: cover;
+    height: 650px;
+    position: relative;
+}
+
+.img-text {
+    position: absolute;
+    top: 64%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: 'Whisper', cursive;
+    font-size: 100px;
+}
+
+.intro {
+    text-align: center;
+    margin: 3em 3em;
+    font-family: 'Whisper', cursive;
+    font-size: 30px;
+}
+
+p.intro::first-letter {
+    color: orange;
+    font-size: 50px;
+}
+
+p.intro::first-line {
+    text-decoration: wavy underline orange;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 446px;
+    height: 0px;
+    left: 52px;
+    top: 364px;
+    border: 1px solid #2F3E53;
+}
+
+.container {
+    display: flex;
+}
+
+.left-side {
+    margin-left: 5em;
+}
+
+.right-side {
+    margin-left: 3em;
+}
+
+.second {
+    margin-top: 3em;
+}
+
+h4::first-line {
+    line-height: 0;
+    font-variant: small-caps;
+    text-decoration: overline underline black;
+}
+
+ul li::marker{
+    color: orange;
+    font-size: 20px;
+}
+
+ol li::marker{
+    color: brown;
+    font-size: 30px;
+    font-family: 'Niconne', cursive;
+}
+
+ol li::first-letter {
+    border: 1px solid orange;
+    padding: 5px;
+    background-color: rgb(255, 191, 0);
+    font-family: 'Niconne';
+    /* letter-spacing: 0.25em; */
+}
+
+ol li {
+    margin: 10px 0;
+}
+
+.bottom {
+    margin-top: 30px;
+    border: 1px solid grey;
+    padding: 10px;
+    font-family: sans-serif;
+    color: grey;
+}
+
+i {
+    color: black;
+    font-size: 70px;
+    font-family: 'Niconne', cursive;
+    letter-spacing: 0.25em;
+    
+}

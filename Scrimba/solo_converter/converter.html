@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Converter</title>
+    <link rel="stylesheet" href="converter.css">
+    <script src="converter.js"></script>
+</head>
+
+<body>
+    <div class="hero-back">
+        <div class="hero-text">
+            <h3>Metric/imperial unit conversion</h3>
+            <h1><input type="number" id="myInput" oninput="converter()"></h1>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="columns">
+            <div class="col-length">
+                <p class="mini-header"><strong>Length (Meter/Feet)</strong></p>
+                <p><span id="myVal"></span> meters = <span id="resultMeter"></span> feet | <span id="myVal2"></span> feet = <span id="resultFeet"></span> meters</p>
+            </div>
+            <div class="col-volum">
+                <p class="mini-header"><strong>Volum (Liters/Gallons)</strong></p>
+                <p><span id="myVal3"></span> liters = <span id="resultLiter"></span> gallons | <span id="myVal4"></span> gallons = <span id="resultGallon"></span> liters</p>
+            </div>
+            <div class="col-mass">  
+                <p class="mini-header"><strong>Mass (Kilograms/Pounds)</strong></p>
+                <p><span id="myVal5"></span> kilos = <span id="resultKilo"></span> pounds | <span id="myVal6"></span> pounds = <span id="resultPound"></span> kilos</p>
+            </div>
+        </div>   
+    </div>
+</body>
+</html>

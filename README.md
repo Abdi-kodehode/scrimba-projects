@@ -4,9 +4,9 @@
 
 Jeg er en ivrig koder fra stavanger og har en en lidenskap for …………(fullstack/backend…kompetansen kommer senere)
 
-Velorganisert person, problemløser og en god teamplayer med god oppmerksomhet for detaljer. Fan av fotball, spiller en del mmo spill og 
+Velorganisert person, problemløser og en god teamplayer med god oppmerksomhet for detaljer. 
 
-digger en god thriller film. En familieorientert person og far til 2 rakkerunger.
+Fan av fotball, spiller en del mmo spill og digger en god thriller film. En familieorientert person og far til 2 rakkerunger.
 
 Interessert i hele …….. delen og jobber med ambisiøse prosjekter med positive kolleger  
 

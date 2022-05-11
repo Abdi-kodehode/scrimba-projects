@@ -14,7 +14,7 @@ La oss lage noe sammen
 
 
 | Progressjon på kodehode                               | Scrimba                                                       |
-| :---                                                  | ---:                                                          |    
+| :---                                                  | :---                                                          |    
 | [First](./Lekser/html_formatting/)                    | [train](./Project_train/)                                     |    
 | [Lists](./Lekser/lister/)                             | [BlackJack](./Scrimba/Module%203/Blackjack/)                  |    
 | [Border](./Lekser/border_etc/)                        | [Converter](./Scrimba/solo_converter/)                        |        

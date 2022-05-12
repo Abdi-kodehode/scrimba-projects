@@ -24,5 +24,5 @@ La oss lage noe sammen
 | [Pseudo-Element](./Lekser/pseudo_element/)            |                                                               |
 | [EasterTask](./Lekser/Easter_task_2022/)              |                                                               |    
 | [Transition](./Lekser/CSS_transition/)                |                                                               |    
-| [Animation](./Lekser/animation/)                      |                                                                     
-
+| [Animation](./Lekser/animation/)                      |                                                               |       
+| [Drumkit](./Lekser/Drumkit_project/)                  |                                                                                                                      

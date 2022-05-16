@@ -81,7 +81,7 @@
 	width: 100px;
 	height: 100px;
 	background: purple;
-	transition: cubic-bezier(0.895, 0.03, 0.685, 0.22)	
+	transition: cubic-bezier(0.895, 0.03, 0.685, 0.22) 2s;
 }
 
 .ex-6:hover {

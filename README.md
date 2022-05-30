@@ -17,7 +17,7 @@ La oss lage noe sammen
 | :---                                                  | :---                                                          |    
 | [First](./Lekser/html_formatting/)                    | [train](./Project_train/)                                     |    
 | [Lists](./Lekser/lister/)                             | [BlackJack](./Scrimba/Module%203/Blackjack/)                  |    
-| [Border](./Lekser/border_etc/)                        | [Converter](./Scrimba/solo_converter/)                        |        
+| [Border](./Lekser/border_etc/)                        | [Converter](./Scrimba/Module%202/solo_converter/)             |    
 | [Parallex](./Lekser/basic_parallex/)                  | [PasswordGenerator](./Scrimba/Module%203/password_generator/) |        
 | [StringManipulation](./Lekser/string_manipulation/)   |                                                               |               
 | [Tables](./Lekser/tables/)                            |                                                               |

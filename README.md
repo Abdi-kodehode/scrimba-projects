@@ -19,7 +19,7 @@ La oss lage noe sammen
 | [Lists](./Lekser/lister/)                             | [BlackJack](./Scrimba/Module%203/Blackjack/)                  |    
 | [Border](./Lekser/border_etc/)                        | [Converter](./Scrimba/Module%202/solo_converter/)             |    
 | [Parallex](./Lekser/basic_parallex/)                  | [PasswordGenerator](./Scrimba/Module%203/password_generator/) |        
-| [StringManipulation](./Lekser/string_manipulation/)   |                                                               |               
+| [StringManipulation](./Lekser/string_manipulation/)   | [Invoice](./Scrimba/Module%203/InvoiceCreator/)               |               
 | [Tables](./Lekser/tables/)                            |                                                               |
 | [Pseudo-Element](./Lekser/pseudo_element/)            |                                                               |
 | [EasterTask](./Lekser/Easter_task_2022/)              |                                                               |    

@@ -12,10 +12,10 @@ const Header = () => {
   return (    
     <NavBar>
         <h2>
-          <StyledLink to="/">Summer Project 2022</StyledLink>
+          <StyledLink to="/KodeHode/Lekser/Shopping_Cart/build/">Summer Project 2022</StyledLink>
         </h2>
         <Cart>
-          <StyledLink to="checkout">
+          <StyledLink to="/KodeHode/Lekser/Shopping_Cart/build/checkout">
             <FaShoppingCart size='25px' />
           </StyledLink>
           <CartCount>{ prod.length }</CartCount>

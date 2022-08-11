@@ -1,0 +1,36 @@
+.checkout {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.container {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 10px;
+    /* height: 86vh; */
+}
+
+.container > span {
+    padding-bottom: 20px;
+}
+
+.prod-checkout {
+    width: 50%;
+    padding: 20px;
+}
+
+.prod-checkout > h2 {
+    margin-top: 0px;
+}
+
+.summary {
+    margin-top: 0em;
+    margin-left: 15em;
+    margin-bottom: 50em;
+    width: 30%;
+}

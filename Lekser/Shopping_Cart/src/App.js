@@ -12,8 +12,8 @@ function App() {
         <ProductProvider>
           <Header />
           <Routes>
-            <Route path="/KodeHode/Lekser/Shopping_Cart/build/" element={ <Products /> } />
-            <Route path="/KodeHode/Lekser/Shopping_Cart/build/checkout" element={ <Checkout /> } />
+            <Route path="/" element={ <Products /> } />
+            <Route path="/checkout" element={ <Checkout /> } />
           </Routes>
         </ProductProvider>
       </HashRouter>

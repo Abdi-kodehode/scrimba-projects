@@ -28,5 +28,6 @@ La oss lage noe sammen
 | [Drumkit](./Lekser/Drumkit_project/)                  |                                                               |
 | [ToDo](./Lekser/toDoApp/)                             |                                                               | 
 | [Extra-1](./Lekser/Many_numbers/)                                                                                              
-|
+| [PokemonAPI](./Lekser/PokemonAPI/)
                                                                                                             
+ 

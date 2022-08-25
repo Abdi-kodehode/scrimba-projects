@@ -1,0 +1,87 @@
+body {
+    font-family: monospace;
+    background-color: yellow;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+header,  h1 {
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.pokeCard {
+  max-width: 600px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 50vh;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: navy;
+}
+
+.pokemonImg {
+    height: 80%;
+    width: 60%;
+    padding: 10px;
+}
+
+.id {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.pokemonTitle {
+    font-size: 1.50rem;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 24px;
+}
+
+.pokemonDesc {
+    font-size: 1rem;
+    color: #231f20;
+    width: 300px;
+    padding: 5px 0;
+}
+
+.id,
+.pokemonTitle,
+.pokemonDesc {
+  margin: 0 auto;
+  color: aliceblue;
+}
+
+
+
+button {
+  background-color: #fa6400;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  justify-content: center;
+  padding: 10px 20px;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+button:hover,
+button:focus {
+  background-color: #fb8332;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+}
+
+button:hover {
+  transform: translateY(-1px);
+}
+
+button:active {
+  background-color: #c85000;
+  box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+  transform: translateY(0);
+}

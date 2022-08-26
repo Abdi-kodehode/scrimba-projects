@@ -1,6 +1,6 @@
 body {
     font-family: monospace;
-    background-color: yellow;
+    background-color: #fb8332;
     box-sizing: border-box;
     margin: 0 auto;
 }
@@ -18,19 +18,23 @@ header,  h1 {
   align-items: center;
   height: 50vh;
   margin: 0 auto;
-  padding: 20px;
+  padding: 30px;
   background-color: navy;
 }
 
 .pokemonImg {
     height: 80%;
-    width: 60%;
+    width: 100%;
     padding: 10px;
 }
 
 .id {
   font-weight: bold;
   font-size: 1rem;
+}
+
+.pokeText {
+  width: 100%;
 }
 
 .pokemonTitle {

@@ -18,7 +18,7 @@ const fetchPokemon = async () => {
 
         console.log(pokeData);
     
-        PokeImg.src = pokeData.sprites.other.dream_world.front_default
+        PokeImg.src = pokeData.sprites.front_default
         PokeId.textContent = "ID: " + pokeData.id
         PokeTitle.textContent = pokeData.name
         PokeDesc.textContent = speciesData.flavor_text_entries.find(e => e.language.name === "en").flavor_text   

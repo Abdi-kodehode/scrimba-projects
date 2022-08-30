@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KodeHode/Lekser/Shopping_Cart/build/static/css/main.e0b262d1.css",
-    "main.js": "/KodeHode/Lekser/Shopping_Cart/build/static/js/main.475935a1.js",
-    "index.html": "/KodeHode/Lekser/Shopping_Cart/build/index.html",
-    "main.e0b262d1.css.map": "/KodeHode/Lekser/Shopping_Cart/build/static/css/main.e0b262d1.css.map",
-    "main.475935a1.js.map": "/KodeHode/Lekser/Shopping_Cart/build/static/js/main.475935a1.js.map"
+    "main.css": "/KodeHode/shopping-cart-react/build/static/css/main.e0b262d1.css",
+    "main.js": "/KodeHode/shopping-cart-react/build/static/js/main.574cf0a5.js",
+    "index.html": "/KodeHode/shopping-cart-react/build/index.html",
+    "main.e0b262d1.css.map": "/KodeHode/shopping-cart-react/build/static/css/main.e0b262d1.css.map",
+    "main.574cf0a5.js.map": "/KodeHode/shopping-cart-react/build/static/js/main.574cf0a5.js.map"
   },
   "entrypoints": [
     "static/css/main.e0b262d1.css",
-    "static/js/main.475935a1.js"
+    "static/js/main.574cf0a5.js"
   ]
 }
